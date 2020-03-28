@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AB438EA7242F481B00382A72 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = AB438EA6242F481B00382A72 /* main.c */; };
+		AB438EAF242F48C200382A72 /* LeetCode_TwoSum.c in Sources */ = {isa = PBXBuildFile; fileRef = AB438EAD242F48C200382A72 /* LeetCode_TwoSum.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		AB438EA3242F481B00382A72 /* LeetCode_Practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode_Practice; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB438EA6242F481B00382A72 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		AB438EAD242F48C200382A72 /* LeetCode_TwoSum.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = LeetCode_TwoSum.c; sourceTree = "<group>"; };
+		AB438EAE242F48C200382A72 /* LeetCode_TwoSum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LeetCode_TwoSum.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				AB438EA6242F481B00382A72 /* main.c */,
+				AB438EAD242F48C200382A72 /* LeetCode_TwoSum.c */,
+				AB438EAE242F48C200382A72 /* LeetCode_TwoSum.h */,
 			);
 			path = LeetCode_Practice;
 			sourceTree = "<group>";
@@ -120,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AB438EA7242F481B00382A72 /* main.c in Sources */,
+				AB438EAF242F48C200382A72 /* LeetCode_TwoSum.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

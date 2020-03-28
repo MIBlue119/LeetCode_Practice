@@ -7,9 +7,17 @@
 //
 
 #include <stdio.h>
+#include <stdlib.h>
+
+#include "LeetCode_TwoSum.h"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Hello, World!\n");
+    Test_TwoSum();
+    
     return 0;
 }
+
+
+
