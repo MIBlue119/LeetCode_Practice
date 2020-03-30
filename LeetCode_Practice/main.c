@@ -10,11 +10,12 @@
 #include <stdlib.h>
 
 #include "LeetCode_TwoSum.h"
-
+#include "LeetCode_FindMedianSotedArrays.h"
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Hello, World!\n");
     Test_TwoSum();
+    Test_findMedianSortedArrays();
     
     return 0;
 }
